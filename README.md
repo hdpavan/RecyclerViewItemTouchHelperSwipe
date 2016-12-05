@@ -1,2 +1,2 @@
-# RecyclerViewItemTouchHelperSwipeLeft
-RecyclerViewItemTouchHelperSwipeLeft
+# RecyclerViewItemTouchHelperSwipe
+RecyclerViewItemTouchHelperSwipe
