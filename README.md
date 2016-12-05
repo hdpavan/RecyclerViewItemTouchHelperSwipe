@@ -1,0 +1,2 @@
+# RecyclerViewItemTouchHelperSwipeLeft
+RecyclerViewItemTouchHelperSwipeLeft
