@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerViewItemLeftSwipe</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="archived_label">Archived</string>
+
+    <string name="undo_label"><u>Undo</u></string>
+</resources>
