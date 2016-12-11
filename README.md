@@ -7,4 +7,4 @@ RecyclerViewItemTouchHelperSwipe
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Fb-1aGNUPqY/0.jpg)](https://www.youtube.com/watch?v=Fb-1aGNUPqY)
 
-
+Read More : http://tutorialsbuzz.com/2016/12/android-swipe-recyclerview-items-using-itemtouchhelper.html
