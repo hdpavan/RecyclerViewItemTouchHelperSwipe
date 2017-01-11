@@ -6,9 +6,6 @@ RecyclerViewItemTouchHelperSwipe
 ![Alt text](http://tutorialsbuzz.com/wp-content/uploads/2016/12/giphy.gif?raw=true "Optional Title")
 
 
-![Alt text](https://github.dev.global.tesco.org/raw/52InstoreCustomerPicking/SmartDeliverySystem/develop/screenshots/TripOverviewFirstOrder.png?token=AAAII4DTRM9HIQa7KksUfBh1DdYbOWjQks5YfxEQwA%3D%3D )
-
-
 <h1> Undo Swipe Delete </h1>
 ![Alt text](http://tutorialsbuzz.com/wp-content/uploads/2016/12/undoSwipe.gif?raw=true "Optional Title")
 
